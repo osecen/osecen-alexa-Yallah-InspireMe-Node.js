@@ -1,0 +1,1 @@
+{"version":3,"file":"SkillInvokerConfig.js","sourceRoot":"","sources":["../../lib/config/SkillInvokerConfig.ts"],"names":[],"mappings":";AAAA;;;;;;;;;;;GAWG;;;AAKH,MAAa,kBAAkB;IAG3B,YAAY,yBAAoD;QAC5D,IAAI,CAAC,QAAQ,GAAG,yBAAyB,CAAC,OAAO,CAAC;IACtD,CAAC;IAED,IAAW,OAAO;QACd,OAAO,IAAI,CAAC,QAAQ,CAAC;IACzB,CAAC;CACJ;AAVD,gDAUC"}
