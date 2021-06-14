@@ -1,6 +1,10 @@
 # alexa-Yallah-InspireMe-Node.js
 Yallah Inspire Me provides inspirational verses from Quran. The user can save a verse for Alexa to replay as favorite in future sessions. Users can listen to the Arabic recitation of the verse and see the original Arabic text. Users can find out which chapter and verse number of the inspiration.
 
+Skill is submitted for publishin on Alexa skill store - waiting for results. 
+
+"lambda/index.js" is the main file to check out.
+
 # ToDO:
 Find higher resolution images, current ones do not display well since they are very low resolution.
  
