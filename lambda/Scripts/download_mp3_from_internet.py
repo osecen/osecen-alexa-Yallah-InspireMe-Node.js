@@ -5,6 +5,8 @@ import wget
 # The naming of the files match Alexa Yallah audio format. You can upload these
 # files to your S3 for Alexa Yallah skill to use.
 
+## @OnderSecen - June 2021
+
 baseUrl = "https://everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/"
 
 
