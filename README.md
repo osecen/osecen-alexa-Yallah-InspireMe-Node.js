@@ -1,5 +1,5 @@
 # osecen-alexa-Yallah-InspireMe-Node.js
-"Yallah Inspire Me" is an Alexa Skill using Node.js that provides inspirational verses from Quran. The user can save a verse for Alexa to replay as favorite in future sessions. Users can listen to the Arabic recitation of the verse and see the original Arabic text. Users can find out which chapter and verse number of the inspiration.
+["Yallah Inspire Me"](https://www.amazon.com/dp/B09776K9SM/ref=sr_1_1?dchild=1&keywords=yallah+inspire+me&qid=1623680536&s=digital-skills&sr=1-1) is an Alexa Skill using Node.js that provides inspirational verses from Quran. The user can save a verse for Alexa to replay as favorite in future sessions. Users can listen to the Arabic recitation of the verse and see the original Arabic text. Users can find out which chapter and verse number of the inspiration.
 
 * Check out the published skill in [Amazon Alexa Skill store](https://www.amazon.com/dp/B09776K9SM/ref=sr_1_1?dchild=1&keywords=yallah+inspire+me&qid=1623680536&s=digital-skills&sr=1-1)
 
@@ -7,7 +7,7 @@
 * "lambda/index.js" is the main file to change. 
 
 # ToDO:
-Find higher resolution images, current ones do not display well since they are very low resolution.
+* Trying to find higher resolution images, current ones do not display well since they are very low resolution.
  
 <img align="center" src="https://user-images.githubusercontent.com/81345268/121832232-9b25b600-cc97-11eb-8c77-579a3cfd2112.jpg" alt="java" width="200" height="200"/>
 
