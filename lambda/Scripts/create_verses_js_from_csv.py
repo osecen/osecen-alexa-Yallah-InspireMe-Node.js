@@ -2,6 +2,7 @@ import pandas as pd
 
 # Create js object of translation and verse information from a csv file
 # You can use this to update the verses.json file in Yallah Alexa Skill
+# @OnderSecen - June 2021
 
 df = pd.read_csv("./verses2.csv")
 file = open("./verses.json","w")
