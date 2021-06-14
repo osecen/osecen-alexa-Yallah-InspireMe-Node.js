@@ -3,7 +3,7 @@
 
 Skill is submitted for publishin on Alexa skill store - waiting for results. 
 
-"lambda/index.js" is the main file to check out.
+"lambda/index.js" is the main file to change.
 
 # ToDO:
 Find higher resolution images, current ones do not display well since they are very low resolution.
