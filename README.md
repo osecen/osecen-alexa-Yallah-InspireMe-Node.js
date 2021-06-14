@@ -30,7 +30,7 @@ Alexa: "Provides details about the inspirational verse"
 # Setup
 <img align="center" src="https://camo.githubusercontent.com/34b4528b94019892f5cd4f7c6e768f4246c1e4c2/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313230302f312a323459494b4f6436613838746570324e6f336a3262412e706e67" alt="java" width="533" height="400"/>
 
-As a started I suggest using [the Amazon Alexa Skill link](https://developer.amazon.com/en-US/docs/alexa/alexa-skills-kit-sdk-for-nodejs/develop-your-first-skill.html)
+As a starter I suggest using [the Amazon Alexa Skill link](https://developer.amazon.com/en-US/docs/alexa/alexa-skills-kit-sdk-for-nodejs/develop-your-first-skill.html)
 
 Few other installation reminders:
 
