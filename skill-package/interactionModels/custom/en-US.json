@@ -1,0 +1,163 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "yallah inspire me",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "yallah bye",
+            "yallah exit",
+            "exit",
+            "cancel"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "can you help please",
+            "help yallah",
+            "heelp",
+            "help please",
+            "yallah help please",
+            "help",
+            "yallah help"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+            "stop please",
+            "yallah please stop",
+            "yallah stop",
+            "please stop"
+          ]
+        },
+        {
+          "name": "HelloWorldIntent",
+          "slots": [],
+          "samples": [
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "VerseDetailsIntent",
+          "slots": [],
+          "samples": [
+            "yallah please more details",
+            "yallah details please",
+            "please yallah details",
+            "please more details",
+            "yallah details more",
+            "yallah more details",
+            "yallah please details",
+            "please details",
+            "details please",
+            "yallah details",
+            "details"
+          ]
+        },
+        {
+          "name": "FavoriteVerseIntent",
+          "slots": [],
+          "samples": [
+            "my favorite",
+            "yallah my favorite",
+            "favorite yallah",
+            "favorite verse yallah",
+            "favorite",
+            "yallah favorite verse",
+            "yallah favorite"
+          ]
+        },
+        {
+          "name": "NewVerseIntent",
+          "slots": [],
+          "samples": [
+            "verse",
+            "new verse",
+            "inspire",
+            "yallah inspire",
+            "yallah inspire me please",
+            "inspire me yallah",
+            "inspire me please",
+            "please new verse yallah",
+            "new verse please",
+            "yallah new verse please",
+            "yallah new verse",
+            "yallah inspire me"
+          ]
+        },
+        {
+          "name": "SaveVerseIntent",
+          "slots": [],
+          "samples": [
+            "yallah save my verse",
+            "save yallah",
+            "yallah please save",
+            "please yallah save",
+            "yallah save please",
+            "save",
+            "yallah save"
+          ]
+        },
+        {
+          "name": "ArabicVerseIntent",
+          "slots": [],
+          "samples": [
+            "please yallah listen arabic",
+            "please yallah arabic",
+            "please yallah listen",
+            "yallah listen arabic please",
+            "arabic ",
+            "please arabic yallah",
+            "please arabic",
+            "arabic yallah please",
+            "yallah listen arabic",
+            "yallah arabic listen",
+            "arabic listen",
+            "listen arabic",
+            "arabic yallah listen",
+            "arabic yallah",
+            "listen please",
+            "listen",
+            "arabic please",
+            "yallah arabic please",
+            "yallah listen",
+            "yallah arabic"
+          ]
+        },
+        {
+          "name": "RepeatVerseIntent",
+          "slots": [],
+          "samples": [
+            "yallah repeat please",
+            "please repeat yallah",
+            "please yallah repeat",
+            "repeat yallah please",
+            "please repeat",
+            "repeat please",
+            "yallah please repeat",
+            "yallah repeat"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "2"
+}
